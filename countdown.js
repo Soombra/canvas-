@@ -14,7 +14,7 @@ window.onload=function(){
 	//播放音乐
 	var m=document.createElement("audio");
 	m.src="1.mp3";
-	m.volume=0.5;
+	m.volume=0.4;
 	m.play();
 	//自适应处理
 	WINDOW_WIDTH=document.documentElement.clientWidth-20;
